@@ -8,6 +8,14 @@ Slack age bot using go.
  To Build the app:  go build
  To run the application : go run main.go
  ```
+ 
+ ## To use the bot in Slack
+
+Type below message in chat, in same workspace <br/>
+@AgeBot my yob is "year"<br/>
+eg : @AgeBot my yob is 1997<br/>
+ ![image](https://user-images.githubusercontent.com/19289251/160975430-639fdaba-0145-46af-b137-f74b371e01a2.png)
+
 ## Technical Dependencies:
 
 * Using godotenv for getting .env configs<br/>
