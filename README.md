@@ -13,7 +13,7 @@ Slack age bot using go.
 
 Type below message in chat, in same workspace <br/>
 @AgeBot my yob is "year"<br/>
-eg : @AgeBot my yob is 1997<br/>
+eg : @AgeBot my yob is 1997<br/><br/>
  ![image](https://user-images.githubusercontent.com/19289251/160975430-639fdaba-0145-46af-b137-f74b371e01a2.png)
 
 ## Technical Dependencies:
