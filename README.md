@@ -1,6 +1,6 @@
 # GO-SLACK-AGE-BOT
 
-Go slack age bot using go.
+Slack age bot using go.
 
 ## TO RUN/BUILD APP
 
